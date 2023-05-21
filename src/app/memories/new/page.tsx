@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import { Camera, ChevronLeft } from 'lucide-react'
-import MediaPicker from '@/components/MediaPicker'
+import { MediaPicker } from '@/components/MediaPicker'
 
 export default function NewMemory() {
   return (
